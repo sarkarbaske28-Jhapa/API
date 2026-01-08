@@ -60,3 +60,6 @@ const student={
 console.log(student.jiban_ghor)
 console.log(student.sarkar_baske)
 console.log(student.Rohon_baske)
+
+const details=["sarkar",10,3.4,{fullnames:'sarkar baske',studeroll:10,studentclass:10,behaviour:"jhapa",}]
+console.log(details[3].fullnames)
