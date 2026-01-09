@@ -63,3 +63,21 @@ console.log(student.Rohon_baske)
 
 const details=["sarkar",10,3.4,{fullnames:'sarkar baske',studeroll:10,studentclass:10,behaviour:"jhapa",}]
 console.log(details[3].fullnames)
+
+
+// operators
+
+// arthmetic operator
+console.log(10+3)
+console.log(10+"3")
+console.log(10-"3")
+
+//relational operator- show the relation result either true or false
+
+console.log(10>4)
+console.log(10<4)
+console.log(10<=10)
+console.log(10=="10")
+console.log(10==="10")
+
+// logical operator

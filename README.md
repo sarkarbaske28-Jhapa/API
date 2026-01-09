@@ -8,6 +8,13 @@
 
 --------
 -Js
+print
+variable
+data types
+operators
+conditional statment
+loop
+
 * BackEnd
 -Node js
 -Express
